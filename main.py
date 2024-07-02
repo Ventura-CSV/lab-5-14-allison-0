@@ -1,9 +1,7 @@
 def fibo(N):
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+    a, b = 0, 1 # initialize first two fibo numbers
+
+
 
 
 def main():
